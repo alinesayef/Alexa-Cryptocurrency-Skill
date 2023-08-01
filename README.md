@@ -5,7 +5,7 @@ This code was part of a University project to create an Amazon Alexa skill to re
 # Instructions 
 This skill requires the following to be set up in the Amazon Web Services (AWS) console. Please refer to Amazon's documentation for further information.
 
-- DyanamoDB
+- DynamoDB
 - the code file
 - sample utterances
 
