@@ -9,5 +9,6 @@ This skill requires the following to be set up in the Amazon Web Services (AWS) 
 - the code file
 - sample utterances
 
-# Disclaimer
-There is no guarantee that this code will work perfectly. It has been published in the spirit of benefiting the GitHub community.
+# License
+
+This software is subject to a license, please refer to the license file for more information.
